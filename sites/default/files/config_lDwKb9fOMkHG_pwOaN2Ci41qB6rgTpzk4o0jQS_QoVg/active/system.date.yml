@@ -1,0 +1,9 @@
+country:
+  default: MX
+first_day: 0
+timezone:
+  default: America/Mexico_City
+  user:
+    configurable: '1'
+    warn: '0'
+    default: '0'

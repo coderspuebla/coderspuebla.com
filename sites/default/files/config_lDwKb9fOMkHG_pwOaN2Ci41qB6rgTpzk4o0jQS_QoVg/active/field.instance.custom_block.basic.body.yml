@@ -1,0 +1,16 @@
+id: custom_block.basic.body
+uuid: 0044c8e3-d737-46cb-b52b-43b81702c6e9
+status: true
+langcode: en
+field_uuid: 34100237-257e-482e-a601-1f680dfd88b1
+entity_type: custom_block
+bundle: basic
+label: 'Block body'
+description: ''
+required: false
+default_value: {  }
+default_value_function: ''
+settings:
+  display_summary: false
+  text_processing: '1'
+field_type: text_with_summary
